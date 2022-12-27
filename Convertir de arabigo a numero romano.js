@@ -57,7 +57,7 @@
  }
 
  //llamadas a la función
- console.log(ConvertirNumRomano("III"))
+ console.log(ConvertirNumRomano("M"))
  console.log(ConvertirNumRomano("MMXXII"))
  console.log(ConvertirNumRomano("XVII"))
  console.log(ConvertirNumRomano("MMXXI"))
